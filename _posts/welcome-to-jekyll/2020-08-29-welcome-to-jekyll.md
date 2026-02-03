@@ -1,34 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The egg."
 date:   2020-08-29 09:29:20 +0700
-categories: jekyll update
+categories: essay
 usemathjax: true
 ---
 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I won’t be writing a review longer than the story itself.
 
+Sympathy: Every one on earth shares the same core: We are all humans. So instead of judging, we should put ourselves in the shoes of others. It’s true that some acts can’t be justified. But in most cases, when you see a person in an unfortunate situation, tell yourself that in a parallel universe you might just be in his or her place. Which leads to my second point.
 
-Jekyll requires blog post files to be named according to the following format:
+Gratefulness: Are you satisfied with the initial conditions that were given to you. If your answer is no, then would you agree to be put in other starting conditions throught the history of human kind but following a uniform probability distribution? One should be grateful for everything he has, and know that in no way you deserve what you get, you may work for it as hard as you want, but know that you got lucky.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Life is short: I am stating the obvious, but we tend to forget it, I tend to think that I would be around forever and I have all my time to do everything I want. I do not. This precious ressource should be spent wisely with people we love, and doing the things that mater to us.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Read the story]: https://www.galactanet.com/oneoff/theegg_mod.html
 
